@@ -1,4 +1,12 @@
 body{
+    
+background-image: url('img5.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
     background-color:#f1f2f6;
     margin:0;
     padding:20px;
@@ -14,9 +22,10 @@ body{
       gap: 20px;
       flex-wrap: wrap;
       margin-top: 30px;
+    
     }
     .box{
-   background-color: white;
+   background-color:white;
    width:250px;
    padding:20px;
    text-align:center;
